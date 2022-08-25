@@ -13,5 +13,5 @@ News website to publish various news.
    
   3- Update-database
  -----------------  
- ##
-3- And finally project implementation
+
+## And finally project implementation
