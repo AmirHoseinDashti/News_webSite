@@ -5,9 +5,9 @@ News website to publish various news.
 
 1- Delete the migration folder from DataLayrer
 
-    1 - Create a new migration in the DataLayrer folder
  -----------------
-   2 - 
+   2 - Create a new migration in the DataLayrer folder
+   
    
      --> add-migration
   
