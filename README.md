@@ -11,7 +11,7 @@ News website to publish various news.
   
   2- Name: initDatabas
    
-  3- Update-database
+  3- update-database
  -----------------  
 
 ## And finally project implementation
