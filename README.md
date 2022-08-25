@@ -5,13 +5,15 @@ News website to publish various news.
 
 1- Delete the migration folder from DataLayrer
 
-   2- Create a new migration in the DataLayrer folder
+    1 - Create a new migration in the DataLayrer folder
  -----------------
-  --> add-migration
-  
-  --> Name: initDatabas
+   2 - 
    
-  --> update-database
+     --> add-migration
+  
+     --> Name: initDatabas
+   
+     --> update-database
  -----------------  
 
 ## And finally project implementation
